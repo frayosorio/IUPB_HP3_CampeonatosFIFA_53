@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Catedra\\IU Pascual Bravo\\Herramientas de Programacion III\\Cursos\\Curso 2025-1 53\\Ejercicios\\CampeonatosFIFA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|d:\\catedra\\iu pascual bravo\\herramientas de programacion iii\\cursos\\curso 2025-1 53\\ejercicios\\campeonatosfifa\\campeonatosfifa.dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0915E66-ABF7-4023-9AC2-0AE64B526192}|CampeonatosFIFA.Dominio\\CampeonatosFIFA.Dominio.csproj|solutionrelative:campeonatosfifa.dominio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Catedra\\IU Pascual Bravo\\Herramientas de Programacion III\\Cursos\\Curso 2025-1 53\\Ejercicios\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Class1.cs",
+              "RelativeDocumentMoniker": "CampeonatosFIFA.Dominio\\Class1.cs",
+              "ToolTip": "D:\\Catedra\\IU Pascual Bravo\\Herramientas de Programacion III\\Cursos\\Curso 2025-1 53\\Ejercicios\\CampeonatosFIFA\\CampeonatosFIFA.Dominio\\Class1.cs",
+              "RelativeToolTip": "CampeonatosFIFA.Dominio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:26:36.907Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
