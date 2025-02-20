@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace CampeonatosFIFA.Persistencia.Contexto
 {
-    public class CampeonatosFIFAContext:DbContext
+    public class CampeonatosFIFAContext : DbContext
     {
 
         public CampeonatosFIFAContext(DbContextOptions<CampeonatosFIFAContext> options)
@@ -34,7 +34,24 @@ namespace CampeonatosFIFA.Persistencia.Contexto
                 .WithMany()
                 .HasForeignKey(e => e.IdSeleccion);
 
+
+            builder.Entity<GrupoPais>(entidad =>
+            {
+                entidad.HasKey(e => new { e.IdGrupo, e.IdSeleccion });
+            });
+
+            builder.Entity<GrupoPais>()
+                .HasOne(e => e.Grupo)
+                .WithMany()
+                .HasForeignKey(e => e.IdGrupo);
+
+            builder.Entity<GrupoPais>()
+                .HasOne(e => e.Seleccion)
+                .WithMany()
+                .HasForeignKey(e => e.IdSeleccion);
         }
+
+
 
     }
 }
