@@ -1,4 +1,8 @@
-﻿using CampeonatosFIFA.Persistencia.Contexto;
+﻿using CampeonatosFIFA.aplicacion;
+using CampeonatosFIFA.Core.Repositorios;
+using CampeonatosFIFA.Core.Servicios;
+using CampeonatosFIFA.Infraestructura.Repositorios;
+using CampeonatosFIFA.Persistencia.Contexto;
 using Microsoft.EntityFrameworkCore;
 
 namespace CampeonatosFIFA.Presentacion.DI
@@ -14,6 +18,14 @@ namespace CampeonatosFIFA.Presentacion.DI
             {
                 opciones.UseSqlServer(configuracion.GetConnectionString("CampeonatosFIFA"));
             });
+
+            //agregar repositorios
+            servicios.AddTransient<ISeleccionRepositorio, SeleccionRepositorio>();
+
+            //agregar servicios
+            servicios.AddTransient<ISeleccionServicio, SeleccionServicio>();
+
+
 
             return servicios;
         }
