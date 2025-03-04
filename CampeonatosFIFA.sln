@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Persistenci
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Core", "CampeonatosFIFA.Core\CampeonatosFIFA.Core.csproj", "{9E8D83F0-9471-49C3-834D-1E12DCBEB1D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Infraestructura.Repositorios", "CampeonatosFIFA.Infraestructura.Repositorios\CampeonatosFIFA.Infraestructura.Repositorios.csproj", "{C8AAFF19-48E5-45FF-B413-4D5FC36A8ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.Infraestructura.Repositorios", "CampeonatosFIFA.Infraestructura.Repositorios\CampeonatosFIFA.Infraestructura.Repositorios.csproj", "{C8AAFF19-48E5-45FF-B413-4D5FC36A8ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.aplicacion", "CampeonatosFIFA.aplicacion\CampeonatosFIFA.aplicacion.csproj", "{021D3E73-883E-4D58-AD80-D51AA496A204}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampeonatosFIFA.aplicacion", "CampeonatosFIFA.aplicacion\CampeonatosFIFA.aplicacion.csproj", "{021D3E73-883E-4D58-AD80-D51AA496A204}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampeonatosFIFA.Presentacion", "CampeonatosFIFA.Presentacion\CampeonatosFIFA.Presentacion.csproj", "{26034632-F041-4B9B-9691-8FF2785E48DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{021D3E73-883E-4D58-AD80-D51AA496A204}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{021D3E73-883E-4D58-AD80-D51AA496A204}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{021D3E73-883E-4D58-AD80-D51AA496A204}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26034632-F041-4B9B-9691-8FF2785E48DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26034632-F041-4B9B-9691-8FF2785E48DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26034632-F041-4B9B-9691-8FF2785E48DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26034632-F041-4B9B-9691-8FF2785E48DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

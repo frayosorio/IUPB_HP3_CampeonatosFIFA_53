@@ -1,0 +1,16 @@
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.deps.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Dominio.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\bin\Debug\net8.0\CampeonatosFIFA.Dominio.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.csproj.AssemblyReference.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.AssemblyInfoInputs.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.AssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.csproj.CoreCompileInputs.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.sourcelink.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\Campeona.7A2FB068.Up2Date
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\refint\CampeonatosFIFA.Persistencia.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\CampeonatosFIFA.Persistencia.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Persistencia\obj\Debug\net8.0\ref\CampeonatosFIFA.Persistencia.dll
