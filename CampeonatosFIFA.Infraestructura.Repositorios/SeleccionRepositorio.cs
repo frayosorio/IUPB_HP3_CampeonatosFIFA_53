@@ -19,9 +19,12 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
             throw new NotImplementedException();
         }
 
-        public Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
+        public async Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
         {
-            throw new NotImplementedException();
+            return await context.Selecciones
+                .Where( item => (Tipo==0 && item.Nombre.Contains(Dato))
+                || (Tipo == 1 && item.Entidad.Contains(Dato)))
+                .ToListAsync();
         }
 
         public Task<bool> Eliminar(int Id)
