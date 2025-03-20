@@ -14,24 +14,24 @@ namespace CampeonatosFIFA.aplicacion
             this.repositorio = repositorio;
         }
 
-        public Task<Seleccion> Agregar(Seleccion Seleccion)
+        public async Task<Seleccion> Agregar(Seleccion Seleccion)
         {
-            throw new NotImplementedException();
+            return await repositorio.Agregar(Seleccion);
         }
 
-        public Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
+        public async Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato)
         {
-            throw new NotImplementedException();
+            return await repositorio.Buscar(Tipo, Dato);
         }
 
-        public Task<bool> Eliminar(int Id)
+        public async  Task<bool> Eliminar(int Id)
         {
-            throw new NotImplementedException();
+            return await repositorio.Eliminar(Id);
         }
 
-        public Task<Seleccion> Modificar(Seleccion Seleccion)
+        public async Task<Seleccion> Modificar(Seleccion Seleccion)
         {
-            throw new NotImplementedException();
+            return await repositorio.Modificar(Seleccion);
         }
 
         public async Task<Seleccion> Obtener(int Id)

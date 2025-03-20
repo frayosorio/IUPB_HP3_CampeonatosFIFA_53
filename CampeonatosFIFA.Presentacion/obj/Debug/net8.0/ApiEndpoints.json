@@ -1,6 +1,89 @@
 [
   {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.SeleccionControlador",
+    "Method": "Agregar",
+    "RelativePath": "api/selecciones/agregar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Seleccion",
+        "Type": "CampeonatosFIFA.Dominio.Entidades.Seleccion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CampeonatosFIFA.Dominio.Entidades.Seleccion",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.SeleccionControlador",
+    "Method": "Buscar",
+    "RelativePath": "api/selecciones/buscar/{Tipo}/{Dato}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Tipo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Dato",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CampeonatosFIFA.Dominio.Entidades.Seleccion, CampeonatosFIFA.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.SeleccionControlador",
+    "Method": "Eliminar",
+    "RelativePath": "api/selecciones/eliminar/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.SeleccionControlador",
     "Method": "ObtenerTodos",
     "RelativePath": "api/selecciones/listar",
     "HttpMethod": "GET",
@@ -10,6 +93,32 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.IEnumerable\u00601[[CampeonatosFIFA.Dominio.Entidades.Seleccion, CampeonatosFIFA.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.SeleccionControlador",
+    "Method": "Modificar",
+    "RelativePath": "api/selecciones/modificar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Seleccion",
+        "Type": "CampeonatosFIFA.Dominio.Entidades.Seleccion",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CampeonatosFIFA.Dominio.Entidades.Seleccion",
         "MediaTypes": [
           "text/plain",
           "application/json",
