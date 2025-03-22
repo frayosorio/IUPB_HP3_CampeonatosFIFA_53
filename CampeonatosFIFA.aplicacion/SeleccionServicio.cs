@@ -1,11 +1,10 @@
 ﻿using CampeonatosFIFA.Core.Repositorios;
 using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
-using CampeonatosFIFA.Persistencia.Contexto;
 
-namespace CampeonatosFIFA.aplicacion
+namespace CampeonatosFIFA.Aplicacion
 {
-    public class SeleccionServicio : ISeleccionServicio
+    public class SeleccionServicio:ISeleccionServicio
     {
         private readonly ISeleccionRepositorio repositorio;
 
@@ -24,7 +23,7 @@ namespace CampeonatosFIFA.aplicacion
             return await repositorio.Buscar(Tipo, Dato);
         }
 
-        public async  Task<bool> Eliminar(int Id)
+        public async Task<bool> Eliminar(int Id)
         {
             return await repositorio.Eliminar(Id);
         }

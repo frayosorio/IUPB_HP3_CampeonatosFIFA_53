@@ -9,7 +9,6 @@
   <ItemGroup>
     <ProjectReference Include="..\CampeonatosFIFA.Core\CampeonatosFIFA.Core.csproj" />
     <ProjectReference Include="..\CampeonatosFIFA.Dominio\CampeonatosFIFA.Dominio.csproj" />
-    <ProjectReference Include="..\CampeonatosFIFA.Infraestructura.Repositorios\CampeonatosFIFA.Infraestructura.Repositorios.csproj" />
   </ItemGroup>
 
 </Project>

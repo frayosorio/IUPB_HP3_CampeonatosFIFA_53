@@ -1,10 +1,14 @@
 ﻿using CampeonatosFIFA.Dominio.Entidades;
 
-namespace EncuentrosFIFA.Core.Repositorios
+namespace CampeonatosFIFA.Core.Repositorios
 {
     public interface IEncuentroRepositorio
     {
-        Task<IEnumerable<Encuentro>> ObtenerTodos();
+        Task<IEnumerable<Encuentro>> ObtenerCampeonato(int IdCampeonato);
+
+        Task<IEnumerable<Encuentro>> ObtenerCampeonatoFase(int IdCampeonato, int IdFase);
+
+        Task<IEnumerable<Encuentro>> ObtenerGrupo(int IdGrupo);
 
         Task<Encuentro> Obtener(int Id);
 

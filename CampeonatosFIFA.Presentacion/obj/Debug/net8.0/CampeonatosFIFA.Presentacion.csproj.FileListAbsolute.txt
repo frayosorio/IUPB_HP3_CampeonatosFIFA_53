@@ -1,3 +1,196 @@
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\appsettings.Development.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\appsettings.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.exe
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.deps.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.runtimeconfig.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Azure.Core.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Azure.Identity.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.ClientModel.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Text.Json.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Aplicacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Dominio.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Persistencia.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Repositorios.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Aplicacion.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Dominio.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Persistencia.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Repositorios.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.csproj.AssemblyReference.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.AssemblyInfoInputs.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.AssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.csproj.CoreCompileInputs.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.MvcApplicationPartsAssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.sourcelink.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets.build.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets.development.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.CampeonatosFIFA.Presentacion.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.build.CampeonatosFIFA.Presentacion.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CampeonatosFIFA.Presentacion.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CampeonatosFIFA.Presentacion.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\scopedcss\bundle\CampeonatosFIFA.Presentacion.styles.css
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\Campeona.844BB93D.Up2Date
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\refint\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.genruntimeconfig.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 58\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\ref\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.csproj.AssemblyReference.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.AssemblyInfoInputs.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.AssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.csproj.CoreCompileInputs.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.MvcApplicationPartsAssemblyInfo.cs
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\refint\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\appsettings.Development.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\appsettings.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.exe
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.deps.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.runtimeconfig.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Azure.Core.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Azure.Identity.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.ClientModel.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Text.Json.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Aplicacion.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Dominio.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Persistencia.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Repositorios.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Aplicacion.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Dominio.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Persistencia.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Repositorios.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets.build.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets.development.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.CampeonatosFIFA.Presentacion.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.build.CampeonatosFIFA.Presentacion.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CampeonatosFIFA.Presentacion.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CampeonatosFIFA.Presentacion.props
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\scopedcss\bundle\CampeonatosFIFA.Presentacion.styles.css
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\Campeona.844BB93D.Up2Date
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.genruntimeconfig.cache
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Ejercicios\apiCampeonatosFifa\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\ref\CampeonatosFIFA.Presentacion.dll
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\appsettings.Development.json
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\appsettings.json
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Presentacion.exe
@@ -66,13 +259,13 @@ D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.aplicacion.dll
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.dll
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Dominio.dll
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Persistencia.dll
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Repositorios.dll
-D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.dll
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.aplicacion.pdb
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Dominio.pdb
-D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Persistencia.pdb
-D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Persistencia.pdb
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Infraestructura.Repositorios.pdb
+D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\CampeonatosFIFA.Core.pdb
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.csproj.AssemblyReference.cache
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
 D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.AssemblyInfoInputs.cache

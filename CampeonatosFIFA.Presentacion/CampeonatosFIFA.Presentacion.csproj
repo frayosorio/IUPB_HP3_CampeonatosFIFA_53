@@ -11,9 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CampeonatosFIFA.aplicacion\CampeonatosFIFA.aplicacion.csproj" />
+    <ProjectReference Include="..\CampeonatosFIFA.Aplicacion\CampeonatosFIFA.Aplicacion.csproj" />
     <ProjectReference Include="..\CampeonatosFIFA.Dominio\CampeonatosFIFA.Dominio.csproj" />
-    <ProjectReference Include="..\CampeonatosFIFA.Persistencia\CampeonatosFIFA.Persistencia.csproj" />
+    <ProjectReference Include="..\CampeonatosFIFA.Infraestructura.Persistencia\CampeonatosFIFA.Infraestructura.Persistencia.csproj" />
+    <ProjectReference Include="..\CampeonatosFIFA.Infrestructura.Repositorios\CampeonatosFIFA.Infraestructura.Repositorios.csproj" />
   </ItemGroup>
 
 </Project>

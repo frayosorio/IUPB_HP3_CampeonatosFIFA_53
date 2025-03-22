@@ -1,5 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
 
 namespace CampeonatosFIFA.Dominio.Entidades
 {
@@ -18,7 +18,8 @@ namespace CampeonatosFIFA.Dominio.Entidades
         [Column("IdPais")]
         public int IdSeleccion { get; set; }
 
-        public Seleccion PaisOrganizador {  get; set; }
+
+        public Seleccion PaisOrganizador { get; set; }
 
     }
 }

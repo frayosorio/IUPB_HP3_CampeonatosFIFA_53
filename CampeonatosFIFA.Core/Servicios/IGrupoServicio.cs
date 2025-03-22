@@ -2,9 +2,11 @@
 
 namespace CampeonatosFIFA.Core.Servicios
 {
-    internal interface IGrupoServicio
+    public interface IGrupoServicio
     {
         Task<IEnumerable<Grupo>> ObtenerTodos();
+
+        Task<IEnumerable<Grupo>> ObtenerCampeonato(int IdCampeonato);
 
         Task<Grupo> Obtener(int Id);
 
@@ -16,6 +18,7 @@ namespace CampeonatosFIFA.Core.Servicios
 
         Task<IEnumerable<Grupo>> Buscar(int Tipo, string Dato);
 
+        //***** Paises del Grupo *****
 
         Task<IEnumerable<GrupoPais>> ObtenerPaises(int IdGrupo);
 

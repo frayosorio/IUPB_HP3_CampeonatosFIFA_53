@@ -9,7 +9,8 @@
       "CampeonatosFIFA.Presentacion/1.0.0": {
         "dependencies": {
           "CampeonatosFIFA.Dominio": "1.0.0",
-          "CampeonatosFIFA.Persistencia": "1.0.0",
+          "CampeonatosFIFA.Infraestructura.Persistencia": "1.0.0",
+          "CampeonatosFIFA.Infraestructura.Repositorios": "1.0.0",
           "CampeonatosFIFA.aplicacion": "1.0.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
@@ -667,8 +668,7 @@
       "CampeonatosFIFA.aplicacion/1.0.0": {
         "dependencies": {
           "CampeonatosFIFA.Core": "1.0.0",
-          "CampeonatosFIFA.Dominio": "1.0.0",
-          "CampeonatosFIFA.Infraestructura.Repositorios": "1.0.0"
+          "CampeonatosFIFA.Dominio": "1.0.0"
         },
         "runtime": {
           "CampeonatosFIFA.aplicacion.dll": {
@@ -696,26 +696,26 @@
           }
         }
       },
-      "CampeonatosFIFA.Infraestructura.Repositorios/1.0.0": {
-        "dependencies": {
-          "CampeonatosFIFA.Core": "1.0.0",
-          "CampeonatosFIFA.Dominio": "1.0.0",
-          "CampeonatosFIFA.Persistencia": "1.0.0"
-        },
-        "runtime": {
-          "CampeonatosFIFA.Infraestructura.Repositorios.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
-      },
-      "CampeonatosFIFA.Persistencia/1.0.0": {
+      "CampeonatosFIFA.Infraestructura.Persistencia/1.0.0": {
         "dependencies": {
           "CampeonatosFIFA.Dominio": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.2"
         },
         "runtime": {
-          "CampeonatosFIFA.Persistencia.dll": {
+          "CampeonatosFIFA.Infraestructura.Persistencia.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CampeonatosFIFA.Infraestructura.Repositorios/1.0.0": {
+        "dependencies": {
+          "CampeonatosFIFA.Core": "1.0.0",
+          "CampeonatosFIFA.Dominio": "1.0.0",
+          "CampeonatosFIFA.Infraestructura.Persistencia": "1.0.0"
+        },
+        "runtime": {
+          "CampeonatosFIFA.Infraestructura.Repositorios.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1178,12 +1178,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "CampeonatosFIFA.Infraestructura.Repositorios/1.0.0": {
+    "CampeonatosFIFA.Infraestructura.Persistencia/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "CampeonatosFIFA.Persistencia/1.0.0": {
+    "CampeonatosFIFA.Infraestructura.Repositorios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

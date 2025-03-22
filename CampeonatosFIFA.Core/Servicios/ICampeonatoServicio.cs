@@ -1,6 +1,5 @@
 ﻿using CampeonatosFIFA.Dominio.Entidades;
 
-
 namespace CampeonatosFIFA.Core.Servicios
 {
     public interface ICampeonatoServicio
@@ -9,12 +8,12 @@ namespace CampeonatosFIFA.Core.Servicios
 
         Task<Campeonato> Obtener(int Id);
 
+        Task<IEnumerable<Campeonato>> Buscar(int Tipo, string Dato);
+
         Task<Campeonato> Agregar(Campeonato Campeonato);
 
         Task<Campeonato> Modificar(Campeonato Campeonato);
 
         Task<bool> Eliminar(int Id);
-
-        Task<IEnumerable<Campeonato>> Buscar(int Tipo, string Dato);
     }
 }

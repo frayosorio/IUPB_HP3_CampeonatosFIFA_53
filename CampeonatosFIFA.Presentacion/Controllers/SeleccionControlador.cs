@@ -1,5 +1,4 @@
-﻿using CampeonatosFIFA.Core.Repositorios;
-using CampeonatosFIFA.Core.Servicios;
+﻿using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
 
@@ -35,9 +34,15 @@ namespace CampeonatosFIFA.Presentacion.Controllers
         }
 
         [HttpPost("agregar")]
-        public async Task<Seleccion> Agregar([FromBody]Seleccion Seleccion)
+        public async Task<Seleccion> Agregar([FromBody]Seleccion seleccion)
         {
-            return await servicio.Agregar(Seleccion);
+            return await servicio.Agregar(seleccion);
+        }
+
+        [HttpPut("modificar")]
+        public async Task<Seleccion> Modificar([FromBody] Seleccion seleccion)
+        {
+            return await servicio.Modificar(seleccion);
         }
 
         [HttpDelete("eliminar/{Id}")]
@@ -46,10 +51,5 @@ namespace CampeonatosFIFA.Presentacion.Controllers
             return await servicio.Eliminar(Id);
         }
 
-        [HttpPut("modificar")]
-        public async Task<Seleccion> Modificar([FromBody] Seleccion Seleccion)
-        {
-            return await servicio.Modificar(Seleccion);
-        }
     }
 }

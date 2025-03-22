@@ -8,12 +8,14 @@ namespace CampeonatosFIFA.Core.Repositorios
 
         Task<Seleccion> Obtener(int Id);
 
-        Task<Seleccion> Agregar(Seleccion Seleccion);
+        Task<IEnumerable<Seleccion>> Buscar(int Tipo, string Dato);
 
-        Task<Seleccion> Modificar(Seleccion Seleccion);
+        Task<Seleccion> Agregar(Seleccion seleccion);
+
+        Task<Seleccion> Modificar(Seleccion seleccion);
 
         Task<bool> Eliminar(int Id);
 
-        Task<IEnumerable<Seleccion>> Buscar(int Tipo,string Dato);
+
     }
 }

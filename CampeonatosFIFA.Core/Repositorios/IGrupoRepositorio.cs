@@ -15,5 +15,7 @@ namespace CampeonatosFIFA.Core.Repositorios
         Task<bool> Eliminar(int Id);
 
         Task<IEnumerable<Grupo>> Buscar(int Tipo, string Dato);
+
+        Task<IEnumerable<Grupo>> ObtenerCampeonato(int IdCampeonato);
     }
 }

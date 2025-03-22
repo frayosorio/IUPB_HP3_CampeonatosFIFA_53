@@ -2,7 +2,7 @@
 
 namespace CampeonatosFIFA.Core.Repositorios
 {
-    internal interface IFaseRepositorio
+    public interface IFaseRepositorio
     {
         Task<IEnumerable<Fase>> ObtenerTodos();
 
