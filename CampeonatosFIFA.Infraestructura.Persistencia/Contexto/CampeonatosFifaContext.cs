@@ -118,5 +118,8 @@ namespace CampeonatosFIFA.Infraestructura.Persistencia.Contexto
                 .HasForeignKey(e => e.IdEstadio);
 
         }
+
+        //***** Tabla de Posiciones *****
+
     }
 }

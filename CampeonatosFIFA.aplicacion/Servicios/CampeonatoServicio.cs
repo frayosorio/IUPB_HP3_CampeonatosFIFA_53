@@ -2,7 +2,7 @@
 using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
 
-namespace CampeonatosFIFA.Aplicacion
+namespace CampeonatosFIFA.aplicacion.Servicios
 {
     public class CampeonatoServicio : ICampeonatoServicio
     {
@@ -12,24 +12,25 @@ namespace CampeonatosFIFA.Aplicacion
             this.repositorio = repositorio;
         }
 
-        public Task<Campeonato> Agregar(Campeonato Campeonato)
+
+        public async Task<Campeonato> Agregar(Campeonato Campeonato)
         {
-            throw new NotImplementedException();
+            return await repositorio.Agregar(Campeonato);
         }
 
-        public Task<IEnumerable<Campeonato>> Buscar(int Tipo, string Dato)
+        public async Task<IEnumerable<Campeonato>> Buscar(int Tipo, string Dato)
         {
-            throw new NotImplementedException();
+            return await repositorio.Buscar(Tipo, Dato);
         }
 
-        public Task<bool> Eliminar(int Id)
+        public async Task<bool> Eliminar(int Id)
         {
-            throw new NotImplementedException();
+            return await repositorio.Eliminar(Id);
         }
 
-        public Task<Campeonato> Modificar(Campeonato Campeonato)
+        public async Task<Campeonato> Modificar(Campeonato Campeonato)
         {
-            throw new NotImplementedException();
+            return await repositorio.Modificar(Campeonato);
         }
 
         public async Task<Campeonato> Obtener(int Id)
@@ -41,5 +42,7 @@ namespace CampeonatosFIFA.Aplicacion
         {
             return await repositorio.ObtenerTodos();
         }
+
+
     }
 }

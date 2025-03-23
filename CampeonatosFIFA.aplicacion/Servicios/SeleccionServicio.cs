@@ -2,9 +2,9 @@
 using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
 
-namespace CampeonatosFIFA.Aplicacion
+namespace CampeonatosFIFA.aplicacion.Servicios
 {
-    public class SeleccionServicio:ISeleccionServicio
+    public class SeleccionServicio : ISeleccionServicio
     {
         private readonly ISeleccionRepositorio repositorio;
 

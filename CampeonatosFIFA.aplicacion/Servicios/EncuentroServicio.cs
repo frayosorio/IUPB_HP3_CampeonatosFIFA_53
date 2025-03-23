@@ -2,7 +2,7 @@
 using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
 
-namespace CampeonatosFIFA.Aplicacion
+namespace CampeonatosFIFA.aplicacion.Servicios
 {
     public class EncuentroServicio : IEncuentroServicio
     {

@@ -395,7 +395,7 @@
   {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.EncuentroControlador",
     "Method": "ObtenerCampeonato",
-    "RelativePath": "api/encuentros/listarcampeonato",
+    "RelativePath": "api/encuentros/listarcampeonato/{IdCampeonato}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -403,7 +403,7 @@
       {
         "Name": "IdCampeonato",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -421,7 +421,7 @@
   {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.EncuentroControlador",
     "Method": "ObtenerCampeonatoFase",
-    "RelativePath": "api/encuentros/listarcampeonatofase",
+    "RelativePath": "api/encuentros/listarcampeonatofase/{IdCampeonato}/{IdFase}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -429,12 +429,12 @@
       {
         "Name": "IdCampeonato",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "IdFase",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -452,7 +452,7 @@
   {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.EncuentroControlador",
     "Method": "ObtenerGrupo",
-    "RelativePath": "api/encuentros/listargrupo",
+    "RelativePath": "api/encuentros/listargrupo/{IdGrupo}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -460,7 +460,7 @@
       {
         "Name": "IdGrupo",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [
@@ -1026,7 +1026,7 @@
   {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.GrupoControlador",
     "Method": "ObtenerPaises",
-    "RelativePath": "api/grupos/listarpaises",
+    "RelativePath": "api/grupos/listarpaises/{IdGrupo}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -1034,7 +1034,7 @@
       {
         "Name": "IdGrupo",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": [

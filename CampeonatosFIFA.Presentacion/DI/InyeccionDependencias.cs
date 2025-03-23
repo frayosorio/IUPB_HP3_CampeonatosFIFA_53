@@ -1,4 +1,4 @@
-﻿using CampeonatosFIFA.Aplicacion;
+﻿using CampeonatosFIFA.aplicacion.Servicios;
 using CampeonatosFIFA.Core.Repositorios;
 using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Infraestructura.Persistencia.Contexto;

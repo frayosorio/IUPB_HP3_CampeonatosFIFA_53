@@ -17,5 +17,8 @@ namespace CampeonatosFIFA.Core.Repositorios
         Task<IEnumerable<Grupo>> Buscar(int Tipo, string Dato);
 
         Task<IEnumerable<Grupo>> ObtenerCampeonato(int IdCampeonato);
+
+        //***** Tabla de Posiciones *****
+
     }
 }

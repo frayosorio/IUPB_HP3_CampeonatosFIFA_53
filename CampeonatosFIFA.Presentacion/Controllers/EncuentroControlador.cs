@@ -45,19 +45,19 @@ namespace CampeonatosFIFA.Presentacion.Controllers
             return await servicio.Eliminar(Id);
         }
 
-        [HttpGet("listarcampeonato")]
+        [HttpGet("listarcampeonato/{IdCampeonato}")]
         public async Task<IEnumerable<Encuentro>> ObtenerCampeonato(int IdCampeonato)
         {
             return await servicio.ObtenerCampeonato(IdCampeonato);
         }
 
-        [HttpGet("listarcampeonatofase")]
+        [HttpGet("listarcampeonatofase/{IdCampeonato}/{IdFase}")]
         public async Task<IEnumerable<Encuentro>> ObtenerCampeonatoFase(int IdCampeonato, int IdFase)
         {
             return await servicio.ObtenerCampeonatoFase(IdCampeonato, IdFase);
         }
 
-        [HttpGet("listargrupo")]
+        [HttpGet("listargrupo/{IdGrupo}")]
         public async Task<IEnumerable<Encuentro>> ObtenerGrupo(int IdGrupo)
         {
             return await servicio.ObtenerGrupo(IdGrupo);

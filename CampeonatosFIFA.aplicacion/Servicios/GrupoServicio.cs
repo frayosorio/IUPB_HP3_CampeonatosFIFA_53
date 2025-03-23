@@ -2,7 +2,7 @@
 using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
 
-namespace CampeonatosFIFA.Aplicacion
+namespace CampeonatosFIFA.aplicacion.Servicios
 {
     public class GrupoServicio : IGrupoServicio
     {
@@ -76,5 +76,8 @@ namespace CampeonatosFIFA.Aplicacion
         {
             return await repositorioPaises.ObtenerPaises(IdGrupo);
         }
+
+        //***** Tabla de Posiciones *****
+
     }
 }

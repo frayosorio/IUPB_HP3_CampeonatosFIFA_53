@@ -83,12 +83,14 @@ namespace CampeonatosFIFA.Presentacion.Controllers
             return await servicio.ObtenerPais(IdGrupo, IdPais);
         }
 
-        [HttpGet("listarpaises")]
+        [HttpGet("listarpaises/{IdGrupo}")]
         public async Task<IEnumerable<GrupoPais>> ObtenerPaises(int IdGrupo)
         {
             return await servicio.ObtenerPaises(IdGrupo);
         }
 
+        //***** Tabla de Posiciones *****
 
+ 
     }
 }

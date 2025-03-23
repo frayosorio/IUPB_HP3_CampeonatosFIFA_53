@@ -29,5 +29,8 @@ namespace CampeonatosFIFA.Core.Servicios
         Task<GrupoPais> ModificarPais(GrupoPais GrupoPais);
 
         Task<bool> EliminarPais(int IdGrupo, int IdPais);
+
+        //***** Tabla de Posiciones *****
+
     }
 }
