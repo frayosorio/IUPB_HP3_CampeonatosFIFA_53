@@ -1,5 +1,6 @@
 ﻿using CampeonatosFIFA.Core.Repositorios;
 using CampeonatosFIFA.Core.Servicios;
+using CampeonatosFIFA.Dominio.DTOs;
 using CampeonatosFIFA.Dominio.Entidades;
 
 namespace CampeonatosFIFA.aplicacion.Servicios
@@ -79,5 +80,9 @@ namespace CampeonatosFIFA.aplicacion.Servicios
 
         //***** Tabla de Posiciones *****
 
+        public async Task<IEnumerable<TablaPosicionesDto>> ObtenerTablaPosicionesGrupo(int IdGrupo)
+        {
+            return await repositorio.ObtenerTablaPosicionesGrupo(IdGrupo);
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using CampeonatosFIFA.Core.Servicios;
+using CampeonatosFIFA.Dominio.DTOs;
 using CampeonatosFIFA.Dominio.Entidades;
 using Microsoft.AspNetCore.Mvc;
 
@@ -91,6 +92,10 @@ namespace CampeonatosFIFA.Presentacion.Controllers
 
         //***** Tabla de Posiciones *****
 
- 
+        [HttpGet("posiciones/{IdGrupo}")]
+        public async Task<IEnumerable<TablaPosicionesDto>> ObtenerTablaPosicionesGrupo(int IdGrupo)
+        {
+            return await servicio.ObtenerTablaPosicionesGrupo(IdGrupo);
+        }
     }
 }

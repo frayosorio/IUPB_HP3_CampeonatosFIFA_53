@@ -1159,6 +1159,32 @@
     ]
   },
   {
+    "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.GrupoControlador",
+    "Method": "ObtenerTablaPosicionesGrupo",
+    "RelativePath": "api/grupos/posiciones/{IdGrupo}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "IdGrupo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[CampeonatosFIFA.Dominio.DTOs.TablaPosicionesDto, CampeonatosFIFA.Dominio, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.SeleccionControlador",
     "Method": "Agregar",
     "RelativePath": "api/selecciones/agregar",

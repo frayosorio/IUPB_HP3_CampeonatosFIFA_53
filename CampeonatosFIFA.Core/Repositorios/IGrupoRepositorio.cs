@@ -1,4 +1,5 @@
-﻿using CampeonatosFIFA.Dominio.Entidades;
+﻿using CampeonatosFIFA.Dominio.DTOs;
+using CampeonatosFIFA.Dominio.Entidades;
 
 namespace CampeonatosFIFA.Core.Repositorios
 {
@@ -20,5 +21,6 @@ namespace CampeonatosFIFA.Core.Repositorios
 
         //***** Tabla de Posiciones *****
 
+        Task<IEnumerable<TablaPosicionesDto>> ObtenerTablaPosicionesGrupo(int IdGrupo);
     }
 }

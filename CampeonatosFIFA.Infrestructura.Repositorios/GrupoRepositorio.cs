@@ -1,4 +1,5 @@
 ﻿using CampeonatosFIFA.Core.Repositorios;
+using CampeonatosFIFA.Dominio.DTOs;
 using CampeonatosFIFA.Dominio.Entidades;
 using CampeonatosFIFA.Infraestructura.Persistencia.Contexto;
 using Microsoft.EntityFrameworkCore;
@@ -83,6 +84,13 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
                 .Include(e => e.Campeonato)   // Incluir el objeto Campeonato
                     .ThenInclude(c => c.PaisOrganizador) // Incluir el País Organizador
                 .ToArrayAsync();
+        }
+
+        //***** Tabla de Posiciones *****
+
+        public async Task<IEnumerable<TablaPosicionesDto>> ObtenerTablaPosicionesGrupo(int IdGrupo)
+        {
+            return await context.ObtenerTablaPosicionesGrupo(IdGrupo);
         }
     }
 }
