@@ -2,6 +2,18 @@ using CampeonatosFIFA.Presentacion.DI;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("PermitirAngular",
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200")
+                  .AllowAnyHeader()
+                  .AllowAnyMethod();
+        });
+});
+
 // Add services to the container.
 var configuracion = builder.Configuration;
 builder.Services.AgregarDependencias(configuracion);
@@ -21,6 +33,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// CORS debe ir antes de Authorization
+app.UseCors("PermitirAngular");
 
 app.UseAuthorization();
 

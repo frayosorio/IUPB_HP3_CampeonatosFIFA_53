@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CampeonatosFIFA.aplicacion
-build_property.ProjectDir = D:\Catedra\IU Pascual Bravo\Herramientas de Programacion III\Cursos\Curso 2025-1 53\Ejercicios\CampeonatosFIFA\CampeonatosFIFA.aplicacion\
+build_property.ProjectDir = D:\Catedra\IU Pascual Bravo\HP III\Cursos\Curso 2025-1 53\Ejercicios\apiCampeonatosFIFA\CampeonatosFIFA.aplicacion\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

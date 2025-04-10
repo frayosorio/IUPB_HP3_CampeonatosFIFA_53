@@ -15,6 +15,6 @@ namespace CampeonatosFIFA.Dominio.Entidades
         [Column("IdCampeonato")]
         public int IdCampeonato { get; set; }
 
-        public Campeonato Campeonato { get; set; }
+        public Campeonato? Campeonato { get; set; }
     }
 }

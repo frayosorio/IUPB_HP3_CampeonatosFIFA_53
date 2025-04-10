@@ -19,7 +19,7 @@ namespace CampeonatosFIFA.Dominio.Entidades
         public int IdSeleccion { get; set; }
 
 
-        public Seleccion PaisOrganizador { get; set; }
+        public Seleccion? PaisOrganizador { get; set; }
 
     }
 }

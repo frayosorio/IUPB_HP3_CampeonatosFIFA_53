@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5zZ70712Ue4=",
+  "dgSpecHash": "oHZO6vLICX8=",
   "success": true,
-  "projectFilePath": "D:\\Catedra\\IU Pascual Bravo\\Herramientas de Programacion III\\Cursos\\Curso 2025-1 53\\Ejercicios\\CampeonatosFIFA\\CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj",
+  "projectFilePath": "D:\\Catedra\\IU Pascual Bravo\\HP III\\Cursos\\Curso 2025-1 53\\Ejercicios\\apiCampeonatosFIFA\\CampeonatosFIFA.Presentacion\\CampeonatosFIFA.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

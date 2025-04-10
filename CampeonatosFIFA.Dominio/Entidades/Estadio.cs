@@ -15,7 +15,7 @@ namespace CampeonatosFIFA.Dominio.Entidades
         [Column("IdCiudad")]
         public int IdCiudad { get; set; }
 
-        public Ciudad Ciudad { get; set; }
+        public Ciudad? Ciudad { get; set; }
 
         [Column("Capacidad")]
         public int Capacidad { get; set; }

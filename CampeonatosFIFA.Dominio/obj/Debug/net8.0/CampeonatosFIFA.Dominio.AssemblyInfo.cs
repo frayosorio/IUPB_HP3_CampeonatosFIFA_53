@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CampeonatosFIFA.Dominio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a51780be74cbb618162134276b6e0fdde7e6dbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8b6cee046f1d33fec6a03e254895d9a5fd02e17")]
 [assembly: System.Reflection.AssemblyProductAttribute("CampeonatosFIFA.Dominio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CampeonatosFIFA.Dominio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
