@@ -17,7 +17,9 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
         {
             context.Campeonatos.Add(Campeonato);
             await context.SaveChangesAsync();
-            return Campeonato;
+            return await context.Campeonatos
+                .Include(c => c.PaisOrganizador)
+                .FirstOrDefaultAsync(c => c.Id == Campeonato.Id);
         }
 
         public async Task<IEnumerable<Campeonato>> Buscar(int Tipo, string Dato)
@@ -60,7 +62,9 @@ namespace CampeonatosFIFA.Infraestructura.Repositorios
             context.Entry(CampeonatoExistente).CurrentValues.SetValues(Campeonato);
             await context.SaveChangesAsync();
 
-            return await context.Campeonatos.FindAsync(Campeonato.Id);
+            return await context.Campeonatos
+                .Include(c => c.PaisOrganizador)
+                .FirstOrDefaultAsync(c => c.Id == Campeonato.Id);
         }
 
         public async Task<Campeonato> Obtener(int Id)

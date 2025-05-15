@@ -1,4 +1,5 @@
-﻿namespace CampeonatosFIFA.Dominio.DTOs
+﻿
+namespace CampeonatosFIFA.Dominio.DTOs
 {
     public class TablaPosicionesDto
     {
