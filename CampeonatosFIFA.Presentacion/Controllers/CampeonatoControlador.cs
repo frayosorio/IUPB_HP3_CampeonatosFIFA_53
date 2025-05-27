@@ -1,5 +1,6 @@
 ﻿using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.Entidades;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CampeonatosFIFA.Presentacion.Controllers
@@ -16,6 +17,7 @@ namespace CampeonatosFIFA.Presentacion.Controllers
         }
 
         [HttpGet("listar")]
+        [Authorize]
         public async Task<IEnumerable<Campeonato>> ObtenerTodos()
         {
             return await servicio.ObtenerTodos();

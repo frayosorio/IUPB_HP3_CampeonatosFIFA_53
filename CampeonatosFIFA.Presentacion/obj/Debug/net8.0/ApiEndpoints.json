@@ -1340,6 +1340,37 @@
     ]
   },
   {
+    "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.UsuarioControlador",
+    "Method": "Login",
+    "RelativePath": "api/Usuarios/login/{NombreUsuario}/{Clave}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NombreUsuario",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Clave",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CampeonatosFIFA.Dominio.DTOs.UsuarioDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "CampeonatosFIFA.Presentacion.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

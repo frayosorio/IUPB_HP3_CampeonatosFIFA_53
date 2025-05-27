@@ -385,3 +385,4 @@ D:\Catedra\IU Pascual Bravo\HP III\Cursos\Curso 2025-1 53\Ejercicios\apiCampeona
 D:\Catedra\IU Pascual Bravo\HP III\Cursos\Curso 2025-1 53\Ejercicios\apiCampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.pdb
 D:\Catedra\IU Pascual Bravo\HP III\Cursos\Curso 2025-1 53\Ejercicios\apiCampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\CampeonatosFIFA.Presentacion.genruntimeconfig.cache
 D:\Catedra\IU Pascual Bravo\HP III\Cursos\Curso 2025-1 53\Ejercicios\apiCampeonatosFIFA\CampeonatosFIFA.Presentacion\obj\Debug\net8.0\ref\CampeonatosFIFA.Presentacion.dll
+D:\Catedra\IU Pascual Bravo\HP III\Cursos\Curso 2025-1 53\Ejercicios\apiCampeonatosFIFA\CampeonatosFIFA.Presentacion\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
