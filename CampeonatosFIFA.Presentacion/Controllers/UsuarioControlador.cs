@@ -1,5 +1,6 @@
 ﻿using CampeonatosFIFA.Core.Servicios;
 using CampeonatosFIFA.Dominio.DTOs;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CampeonatosFIFA.Presentacion.Controllers
@@ -16,6 +17,7 @@ namespace CampeonatosFIFA.Presentacion.Controllers
         }
 
         [HttpGet("login/{NombreUsuario}/{Clave}")]
+        [AllowAnonymous]
         public async Task<UsuarioDto> Login(String NombreUsuario, String Clave)
         {
             return await servicio.ValidarUsuario(NombreUsuario, Clave);
